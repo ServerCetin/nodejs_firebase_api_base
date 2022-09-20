@@ -6,7 +6,8 @@ I wanted to share my API base for nodejs, express, firebase projects.
 1. [How to run](#how-to-run)
 2. [Overview](#overview)
 3. [Configuration and Initialization](#configuration-and-initialization)
-5. [API Documentation](#api-documentation)
+4. [API Documentation](#api-documentation)
+5. [Contribution](#contribute)
 6. [TODO](#todo)
 
 ## How to run
